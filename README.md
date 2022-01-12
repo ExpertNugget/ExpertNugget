@@ -4,7 +4,7 @@
 
 ### My socials:
 
-[img align="left" alt="ExpertNugget | Youtube" width="22px" src="https://raw.githubusercontent.com/ExpertNugget/ExpertNugget/main/youtube-red.png" />][Youtube]
+<[img align="left" alt="ExpertNugget | Youtube" width="22px" src="https://raw.githubusercontent.com/ExpertNugget/ExpertNugget/main/youtube-red.png" />][Youtube]
 <br />
 <br />
 
