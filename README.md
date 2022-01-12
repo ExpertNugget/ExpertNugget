@@ -5,6 +5,9 @@
 ### My socials:
 
 [<img align="left" alt="ExpertNugget | Youtube" width="22px" src="https://raw.githubusercontent.com/ExpertNugget/ExpertNugget/main/youtube-red.png" />][Youtube]
+
+[<img align="left" alt="ExpertNugget | Twitch" width="22px" src="https://raw.githubusercontent.com/ExpertNugget/ExpertNugget/main/twitch-red.png" />][Twitch]
+
 <br />
 <br />
 
