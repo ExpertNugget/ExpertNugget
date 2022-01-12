@@ -11,5 +11,16 @@
 <br />
 <br />
 
+---
+
+### Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
+<br />
+<br />
+
 [Twitch]: https://twitch.tv/expertnugget
 [Youtube]:https://https://www.youtube.com/channel/UCnAIFEysXmB-Yb3LqmOKIFg
