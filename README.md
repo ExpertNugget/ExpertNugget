@@ -1,7 +1,4 @@
-### Welcome to my GitHub page!
-#### I have moved to GitLab check it out!
-https://gitlab.com/ExpertNugget
-
+# I have moved to [GitLab](https://gitlab.com/ExpertNugget) check it out!
 ---
 
 ### Latest YouTube Videos
