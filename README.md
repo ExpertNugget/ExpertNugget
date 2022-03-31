@@ -1,5 +1,4 @@
 # I have moved to [GitLab](https://gitlab.com/ExpertNugget) check it out!
----
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
