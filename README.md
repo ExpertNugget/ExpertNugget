@@ -1,4 +1,4 @@
-# I have moved to [GitLab](https://gitlab.com/ExpertNugget) check it out!
+# Moving back to GitHub cause its just easier lel
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
